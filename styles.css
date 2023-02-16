@@ -1,2 +1,11 @@
-
+.container{
+	background-color:white;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.item{
+	padding:40px;
+	background-color:green;
+}
 /* Your CSS Code here. */
